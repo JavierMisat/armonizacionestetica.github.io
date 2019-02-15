@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2166916e-cb64-45ff-a608-edf74f07399c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/images/detener-caida-de-pelo-con-plasma-bogota.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Odontologia-estetica.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/abdominoplastia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/acido-hialuronico.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/braquioplastia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/colocacion-acido.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/colocacion-grasa-cara.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dermapen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/detener-caida-de-pelo-con-plasma-bogota.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/elevacion-areas-faciales.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eliminacion-estrias-laser.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eliminacion-estrias.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eliminacion-ojeras.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eliminacion-venas.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gluteoplastia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hidrolipo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hidrolipoclasia-avanzada.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hilos.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/implante-capilar.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/laser.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/levantamiento-nasal.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lifting-ortofacial.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lipoescultura.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/manejo-ojeras.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mesoterapia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rejuvenecimiento-cutaneo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rejuvenecimiento-manos.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rejuvenecimiento-vaginal.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/retiro-bolsas.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tecnicas-mesoterapia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/terapia-fototonica.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/toxina-botulinica.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,26 +18,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="322">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/detener-caida-de-pelo-con-plasma-bogota.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="3201" column="102" lean-forward="true" selection-start-line="3201" selection-start-column="102" selection-end-line="3201" selection-end-column="102" />
+            <state relative-caret-position="315">
+              <caret line="3543" column="19" selection-start-line="3543" selection-start-column="19" selection-end-line="3543" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -99,6 +64,7 @@
       <find>colocaci</find>
       <find>banner</find>
       <find>grasa</find>
+      <find>#banner</find>
     </findStrings>
     <replaceStrings>
       <replace>class=&quot;button special&quot;</replace>
@@ -126,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,33 +99,11 @@
               <item name="armonizacionestetica.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="armonizacionestetica.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="armonizacionestetica.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="armonizacionestetica.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="armonizacionestetica.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="armonizacionestetica.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="armonizacionestetica.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="armonizacionestetica.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="armonizacionestetica.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="armonizacionestetica.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,12 +113,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\armonizacionestetica.github.io\assets\css\images" />
-      <recent name="C:\xampp\htdocs\armonizacionestetica.github.io\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\armonizacionestetica.github.io\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\armonizacionestetica.github.io\images" />
+      <recent name="C:\xampp\htdocs\armonizacionestetica.github.io\assets\css\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,24 +153,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549597550446</updated>
-      <workItem from="1549597553339" duration="5346000" />
+      <workItem from="1549597553339" duration="6867000" />
+      <workItem from="1549894524266" duration="56000" />
+      <workItem from="1550204669419" duration="2343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5346000" />
+    <option name="totallyTimeSpent" value="9266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15279241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32998884" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -235,6 +176,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,23 +215,23 @@
     <entry file="file://$PROJECT_DIR$/images/eliminacion-ojeras.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/css/images/overlay.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/detener-caida-de-pelo-con-plasma-bogota.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/images/overlay.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="3201" column="102" lean-forward="true" selection-start-line="3201" selection-start-column="102" selection-end-line="3201" selection-end-column="102" />
+        <state relative-caret-position="315">
+          <caret line="3543" column="19" selection-start-line="3543" selection-start-column="19" selection-end-line="3543" selection-end-column="19" />
         </state>
       </provider>
     </entry>
