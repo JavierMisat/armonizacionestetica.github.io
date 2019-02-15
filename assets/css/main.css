@@ -3576,6 +3576,10 @@ table.alt tbody tr td {
         padding: 10em 2em 2em;
     }
 
+    #banner h2 {
+        margin-top: 0px;
+    }
+
 }
 
 @media screen and (max-width: 736px) {
@@ -3586,6 +3590,7 @@ table.alt tbody tr td {
 
     #banner h2 {
         font-size: 1.75em;
+        margin-top: -10px;
     }
 
     #banner p {
@@ -3597,7 +3602,10 @@ table.alt tbody tr td {
 @media screen and (max-width: 480px) {
 
     #banner {
-        padding: 8em 2em 2em;
+        padding: 1em 2em 2em;
+    }
+    #banner h2 {
+        margin-top: -10px;
     }
 
 }
@@ -3611,7 +3619,7 @@ table.alt tbody tr td {
 @media screen and (max-width: 736px) {
 
     #main {
-        padding: 3em 0 1em 0;
+        padding: 1em 0 1em 0;
     }
 
 }
